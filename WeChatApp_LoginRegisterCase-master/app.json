@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/login/index",
+    "pages/main/index",
+    "pages/regist/index",
+    "pages/forgetpwd/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}
